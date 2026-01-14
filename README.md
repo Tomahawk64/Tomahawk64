@@ -1,5 +1,22 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prince+Kushwaha;Full-Stack+Engineer+%7C+MERN+%7C+AWS;Building+Production-Grade+Systems;HRMS+%7C+LMS+%7C+FinTech+Platforms" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tomahawk64&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Tomahawk64&theme=github-dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomahawk64&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Prince+Kushwaha;Full-Stack+Engineer+%7C+MERN+%7C+AWS;Building+Production-Grade+Systems;HRMS+%7C+LMS+%7C+FinTech+Platforms" />
 
 <br/>
@@ -31,17 +48,12 @@ I specialize in:
 ---
 
 ## 🛠️ Technology Stack
-
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
-![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws)
-![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,aws,nginx,js,ts,git,docker" />
 
 </div>
+
 
 ---
 
