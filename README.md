@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tomahawk64/Tomahawk64/main/Gemini_Generated_Image_d1nfsd1nfsd1n.png" />
+  <img src="https://raw.githubusercontent.com/Tomahawk64/Tomahawk64/main/banner.png" />
 </p>
 
 <h1 align="center">Prince Kushwaha</h1>
