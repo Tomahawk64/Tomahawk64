@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Prince Kushwaha
 
-<!--
-**Tomahawk64/Tomahawk64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Engineer (MERN, Next.js, AWS)  
+🏢 Full-time at Reddington Global Consultancy Pvt. Ltd.  
+📍 Gurugram, India  
 
-Here are some ideas to get you started:
+I build **real production systems**: HRMS, LMS, Lead Management, FinTech websites & AI monitoring tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+**Frontend:** React, Next.js, Tailwind  
+**Backend:** Node.js, Express, FastAPI  
+**Database:** MongoDB Atlas, MySQL  
+**DevOps:** AWS EC2, Nginx, PM2, Hostinger VPS  
+**Other:** Git, WebSockets, REST APIs  
+
+---
+
+## 🚀 Live Production Projects
+
+| Project | Description | Live |
+|-------|-------------|------|
+| **Lead Management System** | Role-based CRM used by 100+ users | https://olivialms.cloud |
+| **HRMS System** | Attendance, payroll & employee management | rgstaffhub.reddingtonglobal.com |
+| **Debt Relief Platform** | FinTech lead capture website | https://rgdebtrelief.com |
+| **Corporate Website** | Reddington Global | https://reddingtonglobal.com |
+
+---
+
+## 🏆 Achievements
+- Built and deployed **3 production MERN platforms** with 99%+ uptime  
+- Designed real-time WebSocket dashboards  
+- Reduced monitoring latency by **30%**  
+- Running live systems with real users  
+
+---
+
+## 📫 Contact
+📧 princekkushwaha@outlook.com  
+🌐 https://reddingtonglobal.com
