@@ -1,41 +1,70 @@
-# 👋 Hi, I'm Prince Kushwaha
+<div align="center">
 
-🚀 Full-Stack Engineer (MERN, Next.js, AWS)  
-🏢 Full-time at Reddington Global Consultancy Pvt. Ltd.  
+# 👋 Hi, I'm Prince Kushwaha  
+### Full-Stack Engineer • MERN • Next.js • AWS  
+
+Building **production-grade business platforms** used by **100+ real users**  
+
+🏢 Reddington Global Consultancy Pvt. Ltd.  
 📍 Gurugram, India  
 
-I build **real production systems**: HRMS, LMS, Lead Management, FinTech websites & AI monitoring tools.
+🔗 https://reddingtonglobal.com  
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** React, Next.js, Tailwind  
-**Backend:** Node.js, Express, FastAPI  
-**Database:** MongoDB Atlas, MySQL  
-**DevOps:** AWS EC2, Nginx, PM2, Hostinger VPS  
-**Other:** Git, WebSockets, REST APIs  
+## 🧠 About Me
+I’m a Full-Stack Engineer specializing in **high-scale MERN & AWS platforms**.  
+I build **real business systems** — not demo apps — including **HRMS, LMS, CRM & FinTech platforms** used daily by companies and clients.
+
+I focus on:
+- Scalable backend architecture  
+- Real-time data systems  
+- Production DevOps & uptime  
+- Conversion-driven frontend UX  
 
 ---
 
-## 🚀 Live Production Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Live |
-|-------|-------------|------|
-| **Lead Management System** | Role-based CRM used by 100+ users | https://olivialms.cloud |
-| **HRMS System** | Attendance, payroll & employee management | rgstaffhub.reddingtonglobal.com |
-| **Debt Relief Platform** | FinTech lead capture website | https://rgdebtrelief.com |
-| **Corporate Website** | Reddington Global | https://reddingtonglobal.com |
-
----
-
-## 🏆 Achievements
-- Built and deployed **3 production MERN platforms** with 99%+ uptime  
-- Designed real-time WebSocket dashboards  
-- Reduced monitoring latency by **30%**  
-- Running live systems with real users  
+| Area | Technologies |
+|------|------------|
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, Express, FastAPI |
+| **Database** | MongoDB Atlas, MySQL |
+| **DevOps** | AWS EC2, Nginx, PM2, Hostinger VPS |
+| **Realtime** | WebSockets |
+| **Tools** | Git, GitHub, Postman |
 
 ---
 
-## 📫 Contact
+## 🚀 Live Production Systems
+
+| Platform | What It Does | Live |
+|--------|-------------|------|
+| **Lead Management System** | Role-based CRM used by **100+ users** | https://olivialms.cloud |
+| **HRMS Platform** | Attendance, payroll & employee management | https://rgstaffhub.reddingtonglobal.com |
+| **FinTech Debt Platform** | Lead capture & inquiry system | https://rgdebtrelief.com |
+| **Corporate Website** | Reddington Global main site | https://reddingtonglobal.com |
+
+---
+
+## 🏆 Impact & Achievements
+
+- 🚀 Deployed **3+ production MERN platforms** with **99%+ uptime**  
+- ⚡ Built **real-time WebSocket dashboards**  
+- 📉 Reduced system monitoring latency by **30%**  
+- 👥 Systems running with **real business users**  
+
+---
+
+## 📫 Let’s Connect
+
 📧 princekkushwaha@outlook.com  
-🌐 https://reddingtonglobal.com
+🌐 https://reddingtonglobal.com  
+📍 Gurugram, India  
+
+---
+
+⭐ _If you’re hiring or collaborating, feel free to reach out._
