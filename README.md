@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Prince+Kushwaha;Full-Stack+Engineer+%7C+MERN+%7C+AWS;Building+Production+Grade+Systems;HRMS+%7C+LMS+%7C+FinTech+Platforms" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Prince+Kushwaha;Full-Stack+Engineer+%7C+MERN+%7C+AWS;Building+Production+Grade+Systems;HRMS+%7C+LMS+%7C+FinTech+Platforms" />
 
 <br><br>
 
@@ -15,6 +15,7 @@
 </div>
 
 ---
+
 
 
 ## 🧠 About Me
